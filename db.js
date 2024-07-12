@@ -1,5 +1,3 @@
-/** Database setup for BizTime. */
-const { Client } = require("pg");
 
 /** Database setup for BizTime. */
 
